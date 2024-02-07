@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+.div1{
+    background-color: rgb(240, 238, 238);
+    display: flex;
+    padding: 0px 20px;
+    height: 100px;
+}
+.div1 .kcdclogo img{
+    mix-blend-mode: multiply;
+    width: 100px;
+}
+.div1 .title {
+    display: block;
+    justify-content: center;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1 .title h1{
+    font-family:Arial, Helvetica, sans-serif;  
+}
+.div1 .social{
+    margin: 60px 30px;
+}
+.div1 .social img{
+    width: 25px;
+}
+.div1 .fixbutton{
+    position: relative;
+}
+.div1 .fixbutton button{
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.div2{
+    position: relative;
+}
+.div2 .topnav{
+    position: sticky;
+
+}
+.div2 .topnav nav{
+    background-color:rgb(100, 202, 236);
+    padding: 5px 8px;
+}
+.div2 .topnav nav ul{
+    list-style: none;
+    display: flex;
+}
+.div2 .topnav nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 5px 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+.div2 .topnav nav ul li a:hover{
+    background-color:rgb(39, 120, 185);
+}
+.div3 img{
+    width: 100%;
+}
+.div4-2{
+    display: flex;
+    text-align: justify;
+}
+.div4-2 .cp{
+    width: 65%;
+    height: 570px;
+    margin: 2px 5px;
+    font-size: 18px;
+    display: flex;
+}
+.div4-2 .cp .cppic{
+    display: inline-block;
+    padding: 4px 4px;
+}
+.div4-2 .cp .cppic img{
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 3px;
+}
+.div4-2 .cp .cpdetail{
+    tex
+}
