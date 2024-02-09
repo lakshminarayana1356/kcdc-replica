@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+      <section >
+        <div class="div1 header" >
+            <div class="kcdclogo">
+            <img src="kcdc logo.png" alt="">
+            </div>
+            <div class="title">
+                <h1>KRISHNA CHAITANYA</h1>
+                <p>EDUCATIONAL INSTITUTIONS</p>
+            </div>
+            <div class="social">
+                <img src="fb.png" alt="">
+                <img src="insta.png" alt="">
+                <img src="twitter.png" alt="">
+            </div>
+            <div class="fixbutton">
+                <button>BRANCHES</button>
+            </div>
+        </div>
+        <nav id="navbar" >
+            <ul class="topnav div2">
+                <li><a class="active" href="javascript:void(0)"a></li>
+                <li><a  href="javascript:void(0)">ABOUT CHAIRPEROSONS</a></li>
+                <li><a  href="javascript:void(0)">JUNIOUR</a></li>
+                <li><a  href="javascript:void(0)">DEGREE</a></li>
+                <li><a  href="javascript:void(0)">PG</a></li>
+                <li><a  href="javascript:void(0)">ACHIEVEMENTS</a></li>
+                <li><a  href="javascript:void(0)">PLACEMENTS</a></li>
+                <li><a  href="javascript:void(0)">EVENTS</a></li>
+                <li><a  href="javascript:void(0)">NOTICE BOARD</a></li>
+                <li><a  href="javascript:void(0)">CONTACT US</a></li>
+            </ul>
+        </nav>
+        <!-- <div class="div2">
+            <div class="topnav">
+               
+            </div>
+        </div> -->
+        <div class="div3">
+            <img src="purple.jpg" alt="">
+        </div>
+        <div class="div4">
+            <h1>WELCOME TO <b style="color:rgb(39, 120, 185);">KRISHNA CHAITANYA GROUP OF EDUCATIONAL INSTITUTIONS</b></h1>
+            <div class="div4-2">
+                <div class="cp">
+                <div class="cppic">
+                    <img src="cp1.jpg" alt="">
+                    <img src="cp2.jpg" alt="">
+                    </div>
+                        <p>Krishna Chaitanya College has carved a niche for itself over a period of two decades.
+                             The milestone for Krishna Chaitanya College was laid by a two young men Dr.RV Krishna Reddy 
+                             and P.Chandra Sekhar Reddy. In the Year 1998, Krishna Chaitanya College was started with three departments, 
+                            140 students and limited faculty in Nellore, Andhra Pradesh. <br>
+                             Since then it is constantly progressing in motivating students and staff engaged in active learning through the best use of modern technology.
+                            Krishna Chaitanya College is not just an educational institution, it is a commitment,
+                             towards building a new generation of smart and capable individuals. It not only provides quality Education, 
+                             but teaches them the right attitude towards life. <br>
+                            One among the top colleges in our state. Krishna Chaitanya College has wide reputation 
+                            for holistic approach towards grooming the students. 
+                            <br>
+                            Today,
+                             Krishna Chaitanya happens to be one of the largest educational groups in the 
+                             state of Andhra Pradesh with more than 300 faculty members and around 200 administrative staff and above 10000 students. 
+                             Krishna Chaitanya is known for establishing unique traditions in every aspects of its functioning.</p>
+                </div>   
+                <div class="notice">
+                  <h1>NOTICE BOARD</h1>  
+                  <hr>
+                  <h4>KCEI LATEST UPDATES</h4>
+                 <marquee behavior="" direction="up">
+                <p>----IMMEDIATELY ATTEND FOR SCHOLARSHIP THUMB IMPRESSION - posted on 14-09-2019 </p>
+                  <p>----1ST YEAR MBA/MCA & LATERAL MCA CLASSES WILL BE COMMENCE ON 11/09/2019 - posted on 06-09-2019 </p>
+                  <p>----KCDC Students Registration for MNC Campus Drive (2019-20) - posted on 02-08-2019  </p>
+                </marquee> 
+                <hr>
+                  <h2>135<b style="color: rgb(39, 120, 185);">65</b></h2>
+                </div>
+            </div>                          
+        </div>
+        <div class="div5">
+            <hr class="hr1">
+            <hr class="hr2">
+            <hr class="hr3">
+        </div>
+        <div class="div6">
+            <div class="junior">
+                <h3>KRISHNA CHAITANYA JUNIOR COLLEGE</h3>
+                <div class="juniorbox">
+                    KRISHNA CHAITANYA JUNIOR COLLEGE
+                </div>
+                <P>Krishna Chaitanya junior college was established in 2006 with an aim to provide Quality education to the students of Nellore. With it’s suspendous success and repeated request from the student Community.and enthusiasm parents have prompted them to start a Residential campus. The institution started</P>
+                <button>Read more</button>
+            </div>
+             <div class="degree">
+                <h3>KRISHNA CHAITANYA DEGREE COLLEGE</h3>
+                <div class="degreebox">
+                    KRISHNA CHAITANYA DEGREE COLLEGE
+                </div>
+                <P>Krishna Chaitanya Degree College is one of the top colleges in Andhra Pradesh. Providing education at the pre-university, undergraduate and post graduate level Established in 1998 by Dr.RV.Krishna Reddy and P.Chandra Sekhar Reddy.At Krishna Chaitanya Colleges the Vision is to impart Quality in education. </P>
+                <button>Read more</button>
+               </div>
+            <div class="PG">
+                <h3>KRISHNA CHAITANYA DEGREE COLLEGE</h3>
+                <div class="pgbox">
+                    KRISHNA CHAITANYA PG COLLEGE
+                </div>
+                <P>With the strong degree college background and heritage, a step further and started a PG College for new generations in 2007.Being at Krishna chaitanya is a challenge itself. For here is one of institution which believes in holistic education for his students.Backend by intellectually, Competent faculty, morally</P>
+                <button>Read more</button>
+            </div>
+        </div>
+        <div class="test">
+            <h1>STUDENTS TESTIMONIALS</h1>
+            <div class="card">
+                <div>
+                    <h2>DISCIPLINED ATMOSPHERE WITH BEST EDUCATION.</h2>
+                    <p> I am very much inspired of seeing the quotes in the walls of Krishna chaitanya in my first visit. I believed that the administration will be same as in Quotes, so I joined in this college. Now I am proud to be as a student in Krishna chaitanya college.</p>
+                </div>               
+            </div>
+        </div>
+        <div class="rank">
+
+        </div>
+        <div class="footer">
+            <div class="part1">
+             <h1>DIRECTOR’S DESK:</h1>  
+             <hr>
+             <p>It is a matter of great pleasure for us to welcome you to Krishna Chaitanya Colleges on behalf of the faculty members and supporting staff. Our college is well known for its well equipped laboratories, good library facilities, highly qualified and dedicated teachers and conducive atmosphere for teaching and learning. Professors from reputed institutions quite often visit the college to give invited talks, lectures and seminars. We also organize training programmers and conferences on regional and national level with the financial support of bodies. These programs facilitate excellent means to enrich your learning outside the class rooms. We believe that our graduates and post graduates need technological knowledge, communication and problem solving skills in order to compete in the present global scenario. We are confident that preparing today’s youth for future success requires a team effort. Therefore the college and its all stake holders must work together for quality assurance in education.</p>
+
+            </div>
+            <div class="part2">
+                <h1>MENU LINKS</h1>
+                <hr>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT CHAIRPEROSONS</a></li>
+                    <li><a href="">JUNIOUR</a></li>
+                    <li><a href="">DEGREE</a></li>
+                    <li><a href="">PG</a></li>
+                    <li><a href="">ACHIEVEMENTS</a></li>
+                    <li><a href="">PLACEMENTS</a></li>
+                    <li><a href="">EVENTS</a></li>
+                    <li><a href="">NOTICE BOARD</a></li>
+                    <li><a href="">CONTACT US</a></li>
+                </ul>
+            </div>
+            <div class="part3">
+                <h1>CONTACT US</h1>
+                <hr>
+                <pre>KRISHNA CHAITANYA EDUCATIONAL INSTITUTIONS
+                    Wahabpet, Near Madras Bus-stand, Nellore.
+                    
+                    Inter : +91 9248748101, 02, 04, 05, 09,16
+                    
+                    Degree : +91 9248748144,117,131
+                    
+                    Pg : 9247033339,8,9248748138
+                    
+                    Guthikonda colleges : 9247033334
+                    
+                    kcdcnellore@yahoo.co.in</pre>
+            <div class="social">
+                <img src="fb.png" alt="">
+                <img src="insta.png" alt="">
+                <img src="twitter.png" alt="">
+            </div>
+            </div>
+        </div>
+        <div class="footer2">
+            © Copy Rights Reserved by Krishna Chaitanya Educational Institutions    |    Designed & Developed by LUCKY
+        </div>
+      </section> 
+      
+      <script>
+        window.onscroll = function() {myFunction()};
+        
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+        
+        function myFunction() {
+          if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+          } else {
+            navbar.classList.remove("sticky");
+          }
+        }
+        </script>
+</body>
+</html>
